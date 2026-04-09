@@ -316,7 +316,7 @@ st.markdown(
     Clinical analytics app for predicting patient outcome probabilities using the final tuned XGBoost model.
     <br><br>
     <span style="font-size:1.10rem; color:#94a3b8;">
-    Exclusive made for Professor Desmond Bisandu by his students - S489801, S470785, S477668
+    Exclusive made for Dr. Desmond Bisandu by his students - S489801, S470785, S477668
     </span>
     </div>
     ''',
