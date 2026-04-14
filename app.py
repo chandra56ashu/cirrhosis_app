@@ -626,7 +626,11 @@ with f1:
     - **Macro Recall:** 0.645  
     - **Macro F1-score:** 0.676  
     - **ROC-AUC (Macro OVR):** 0.913  
-    - **Dataset:** Synthetic cirrhosis patient outcome dataset  
+    - **Dataset:** Synthetic cirrhosis patient outcome dataset 
+    - **Future work:** Future versions of the application could 
+                       include explicit ‘No Data’ options for categorical
+                       variables with missing values to better reflect 
+                       real-world clinical scenarios.
     """)
 
 with f2:
